@@ -8,7 +8,7 @@
 // in the project
 #include "socket_async_os.h"
 
-#include "azure_c_shared_utility/socket_async.h"
+#include "socket_async.h"
 #include "azure_c_shared_utility/xlogging.h"
 
 

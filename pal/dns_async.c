@@ -10,8 +10,8 @@
 // in the project
 #include "socket_async_os.h"
 
+#include "dns_async.h"
 #include "azure_c_shared_utility/gballoc.h"
-#include "azure_c_shared_utility/dns_async.h"
 #include "azure_c_shared_utility/crt_abstractions.h"
 #include "azure_c_shared_utility/xlogging.h"
 
